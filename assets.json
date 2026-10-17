@@ -1,0 +1,262 @@
+[
+  {
+    "file": "assets/pdf_image_01.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 1
+  },
+  {
+    "file": "assets/pdf_image_02.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 2
+  },
+  {
+    "file": "assets/pdf_image_03.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 3
+  },
+  {
+    "file": "assets/pdf_image_04.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 4
+  },
+  {
+    "file": "assets/pdf_image_05.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 5
+  },
+  {
+    "file": "assets/pdf_image_06.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 6
+  },
+  {
+    "file": "assets/pdf_image_07.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 7
+  },
+  {
+    "file": "assets/pdf_image_08.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 8
+  },
+  {
+    "file": "assets/pdf_image_09.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 9
+  },
+  {
+    "file": "assets/pdf_image_10.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 10
+  },
+  {
+    "file": "assets/pdf_image_11.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 11
+  },
+  {
+    "file": "assets/pdf_image_12.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 12
+  },
+  {
+    "file": "assets/pdf_image_13.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 13
+  },
+  {
+    "file": "assets/pdf_image_14.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 14
+  },
+  {
+    "file": "assets/pdf_image_15.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 15
+  },
+  {
+    "file": "assets/pdf_image_16.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 16
+  },
+  {
+    "file": "assets/pdf_image_17.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 17
+  },
+  {
+    "file": "assets/pdf_image_18.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 18
+  },
+  {
+    "file": "assets/pdf_image_19.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 19
+  },
+  {
+    "file": "assets/pdf_image_20.jpg",
+    "w": 1800,
+    "h": 1273,
+    "page": 20
+  },
+  {
+    "file": "assets/portfolio_page_01.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 1,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_02.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 2,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_03.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 3,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_04.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 4,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_05.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 5,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_06.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 6,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_07.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 7,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_08.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 8,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_09.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 9,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_10.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 10,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_11.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 11,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_12.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 12,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_13.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 13,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_14.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 14,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_15.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 15,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_16.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 16,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_17.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 17,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_18.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 18,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_19.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 19,
+    "page_render": true
+  },
+  {
+    "file": "assets/portfolio_page_20.jpg",
+    "w": 1011,
+    "h": 715,
+    "page": 20,
+    "page_render": true
+  }
+]
